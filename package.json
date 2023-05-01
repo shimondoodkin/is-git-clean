@@ -7,7 +7,7 @@
   "author": {
     "name": "James Talmage",
     "email": "james@talmage.io",
-    "url": "github.com/jamestalmage"
+    "url": "http://github.com/jamestalmage"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -28,9 +28,9 @@
     "clean"
   ],
   "dependencies": {
-    "execa": "^0.4.0",
-    "is-obj": "^1.0.1",
-    "multimatch": "^2.1.0"
+    "execa": "^7.1.1",
+    "is-obj": "^3.0.0",
+    "multimatch": "^6.0.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
